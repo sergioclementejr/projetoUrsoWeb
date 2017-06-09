@@ -1,0 +1,16 @@
+html, body, main {
+  width: 100%;
+  height: 100%;
+}
+
+.navbar{
+  border-bottom: 1px solid #999999;
+  box-shadow: 0 -1px 10px  rgba(0,0,0,0.8);
+}
+
+.brand-test{
+  height: 30px;
+  width: 30px;
+  background-color: #aa682b;
+  border-radius: 20px;
+}
