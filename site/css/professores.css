@@ -5,38 +5,35 @@ html, body, main{
 
 /*
 
-  CSS da Referente a Página de Professores - professores.html
+  CSS da Referente a Pï¿½gina de Professores - professores.html
 
 */
 
-
-.card-img-overlay{
-  position: relative;
-
-}
-.avatar-section{
-  background-color: #858585;
-  height: auto;
-  position: relative;
-  top: 52%;
+.card{
+  width: 100%;
 }
 
 .card .avatar-img {
   border: 6px solid #FFFFFF;
   min-height: 130px;
   min-width: 130px;
-
   max-height: 130px;
   max-width: 130px;
+
+  position: relative;
+  top: 15%;
 }
 
-.card-text{
-  margin:0;
-  background-color: #454545;
+.card-img-overlay{
+
 }
 
 /* Test section*/
-
 .card .avatar-img{
   background-color: #8c5020;
+}
+
+
+.card-block{
+  margin-top: 50px;
 }
