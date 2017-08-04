@@ -1,0 +1,30 @@
+.funcional{
+  background-image: url(img/null-img.png);
+}
+
+.funcional a{
+  text-decoration: none;
+  color: #000000;
+}
+
+.row{
+  text-align: center;
+}
+
+.avatar-img {
+  overflow: hidden;
+  min-height: 130px;
+  min-width: 130px;
+  max-height: 130px;
+  max-width: 130px;
+}
+
+.avatar-img img {
+  background-color: #ffffff;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.row p{
+  text-align: justify;
+}
